@@ -1,0 +1,25 @@
+Parcial 1: Debes hacer un programa que permita hacer la conversión de números decimales a binario (4 bits), que sume dos números de dos bits y que permita implementar el código Gray con tren de 5 bits.
+
+
+tabla
+Decimal	Binario	Código Gray
+0	00000	00000
+1	00001	00001
+2	00010	00011
+3	00011	00010
+4	00100	00110
+5	00101	00111
+6	00110	00101
+7	00111	00100
+8	01000	01100
+9	01001	01101
+10	01010	01111
+11	01011	01110
+12	01100	01010
+13	01101	01011
+14	01110	01001
+15	01111	01000
+16	10000	11000
+17	10001	11001
+18	10010	11011
+19	10011	11010
